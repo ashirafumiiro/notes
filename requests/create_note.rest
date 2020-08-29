@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes HTTP/1.1
+Host: localhost:3001
+Content-Type: application/json
+
+{
+	"content": "How can we do this really without Allah?",
+	"important": true
+}
