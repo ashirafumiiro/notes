@@ -3,6 +3,6 @@ Host: localhost:3001
 Content-Type: application/json
 
 {
-	"content": "How can we do this really without Allah?",
+	"content": "lol",
 	"important": true
 }
